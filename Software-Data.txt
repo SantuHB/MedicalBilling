@@ -2,4 +2,4 @@
 Software Details 
 
 Software	Version
-SQL Server	2008 Professional Edition
+SQL Server	2010 Express Edition
